@@ -3,9 +3,9 @@ Contributors: coffee2code
 Donate link: http://coffee2code.com/donate
 Tags: custom fields, admin, edit post, edit page, meta, keys, coffee2code
 Requires at least: 2.6
-Tested up to: 3.0.1
-Stable tag: 1.2
-Version: 1.2
+Tested up to: 3.1
+Stable tag: 1.2.1
+Version: 1.2.1
 
 Allows for more existing custom field names to be listed in the dropdown selection field when writing a post.
 
@@ -56,6 +56,10 @@ There are two ways you can customize this value (in both examples, change 100 to
 
 == Changelog ==
 
+= 1.2.1 =
+* Note compatibility through WP 3.1+
+* Update copyright date (2011)
+
 = 1.2 =
 * Functionality now in new `c2c_list_more_custom_field_names()` rather than in an anonymous function
 * Allow overriding of the default number of custom field names, via the 'c2c_list_more_custom_field_names' filter (default is 200)
@@ -78,6 +82,9 @@ There are two ways you can customize this value (in both examples, change 100 to
 
 
 == Upgrade Notice ==
+
+= 1.2.1 =
+Trivial update: noted compatibility through WP 3.1+ and updated copyright date
 
 = 1.2 =
 Minor update. Highlights: added filter to customize number of custom field names to list; moved functionality out of anonymous function and into dedicated function; verified WP 3.0 compatibility.
