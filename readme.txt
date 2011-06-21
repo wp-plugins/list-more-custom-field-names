@@ -24,7 +24,7 @@ _-or-_
 1. Somewhere, most likely in your active theme's functions.php file, hook the 'c2c_list_more_custom_field_names' filter and return the number you'd like:
     `add_filter('c2c_list_more_custom_field_names', create_function('$limit', 'return 100;'));`
 
-Links: [Plugin Homepage](http://coffee2code.com/wp-plugins/wpuntexturize/) | [Author Homepage](http://coffee2code.com)
+Links: [Plugin Homepage](http://coffee2code.com/wp-plugins/list-more-custom-field-names/) | [Author Homepage](http://coffee2code.com)
 
 
 == Installation ==
