@@ -3,7 +3,7 @@ Contributors: coffee2code
 Donate link: http://coffee2code.com/donate
 Tags: custom fields, admin, edit post, edit page, meta, keys, coffee2code
 Requires at least: 2.6
-Tested up to: 3.2
+Tested up to: 3.2.1
 Stable tag: 1.2.2
 Version: 1.2.2
 
