@@ -90,6 +90,7 @@ There are two ways you can customize this value (in both examples, change 100 to
 * Initial release
 
 
+
 == Upgrade Notice ==
 
 = 1.2.2 =
